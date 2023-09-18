@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **akashchauhan22110@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AZBHa7-LnWOcwXpdZUM6amB3Wh8KRxs1/view?usp=drive_link](https://drive.google.com/file/d/1AZBHa7-LnWOcwXpdZUM6amB3Wh8KRxs1/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1OzfcRXE2D7M5tcZwEpvlavJQZ11JV9r7/view?usp=sharing).
 
 - ⚡ Fun fact **I think I am Consul.**
 
