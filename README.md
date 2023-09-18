@@ -9,9 +9,9 @@
 
 - Project 1 [Portfolio Website](https://akashchauhan22110.github.io/Portfolio_Website/)
 
-- Project 2 [Weather Card](https://currentweathercard.netlify.app/)
+- Project 2 [TechyStar](https://techy-star-react.vercel.app/)
 
-- Project 3 [Youtube Clone](https://akashchauhan22110.github.io/HTML_CSS_YT_CLONE/)
+- Project 3 [To Do List](https://to-do-list-one-drab.vercel.app/)
   
 - 🌱 I’m currently learning **React, Redux, JavaScript etc.**
 
