@@ -13,9 +13,9 @@
 
 - Project 3 [To Do List](https://to-do-list-one-drab.vercel.app/)
   
-- 🌱 I’m currently learning **React, Redux, JavaScript etc.**
+- 🌱 I’m currently learning **Next.js, React.js, Redux, Advance hooks etc.**
 
-- 💬 Ask me about **React, HTML5, CSS3, RESTful APIs etc.**
+- 💬 Ask me about **HTML5, CSS3, Javascript,Tailwind,React.js, Next.js, RESTful APIs etc.**
 
 - 📫 How to reach me **akashchauhan22110@gmail.com**
 
